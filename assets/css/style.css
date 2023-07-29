@@ -39,7 +39,7 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
-  margin-right: -93px;
+  margin-right: -110px;
   }
 }
 @media (min-width: 1024px) {
