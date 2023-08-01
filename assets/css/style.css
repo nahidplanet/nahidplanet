@@ -41,6 +41,9 @@ body::before {
   z-index: -1;
   margin-right: -110px;
   }
+  #hero-dec{
+    text-align: center;
+  }
 }
 @media (min-width: 1024px) {
   body::before {
